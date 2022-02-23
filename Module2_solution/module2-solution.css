@@ -92,6 +92,7 @@ h1{
 @media (min-width: 0px) and (max-width: 767px){
 	.one, .two, .three{
 		float: initial;
+		margin-bottom:25px;
 	}
 	.font{
 		margin: 15px;
